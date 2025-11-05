@@ -1,0 +1,7 @@
+FinVision-Pro/
+├── financial_intelligence_engine.py
+├── requirements.txt
+├── README.md
+└── sample_data/
+    ├── market_datasets/
+    └── analysis_results/
